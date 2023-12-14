@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I am diva!</h2>
-<h3 align="justify">Undergraduate student of Data Science. I am passionate to learn about data deeper. I have been learning various analytical tools and worked on data analyst and others related to IT projects.</h3>
+<h3 align="center">Undergraduate student of Data Science, a learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palsywalsyy&label=Profile%20views&color=0e75b6&style=flat" alt="palsywalsyy" /> </p>
 
