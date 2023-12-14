@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm diva!</h1>
-<h3 align="center">I am passionate to learn about data deeper. I have been learning various analytical tools and worked on data analyst and others related to ITprojects. I am capable to communicate and work collaboratively with a team or independently</h3>
+<h2 align="center">Hi, I'm diva!</h1>
+<h3 align="justify">I am passionate to learn about data deeper. I have been learning various analytical tools and worked on data analyst and others related to ITprojects. I am capable to communicate and work collaboratively with a team or independently</h3>
 
 
 - 📫 How to reach me **ameeradivanda@gmail.com**
