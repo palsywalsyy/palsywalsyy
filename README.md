@@ -2,9 +2,6 @@
 <h3 align="justify">I am passionate to learn about data deeper. I have been learning various analytical tools and worked on data analyst and others related to ITprojects. I am capable to communicate and work collaboratively with a team or independently</h3>
 
 
-- 📫 How to reach me **ameeradivanda@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/divandashaffa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/divandashaffa" height="30" width="40" /></a>
